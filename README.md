@@ -77,7 +77,3 @@ JuegoDados/
 - CSS3
 - Webpack
 - Node.js (solo para desarrollo)
-
-## Licencia
-
-[MIT](LICENSE)
